@@ -29,6 +29,13 @@ After downloaded pretrained models, you should make a directory named models and
 * `--model_path`: path to pretrained models
 * `--output_path`: path to output videos
 
+## Experiments
+
+ |                      |classification accuracy | 
+ |:--------------------:|:----------------------:|
+ |    Original videos   |        95.50%          |
+ |  Adversarial videos  |        19.76%          |
+ 
 ## License
 The provided implementation is strictly for academic purposes only. Should you be interested in using our technology for any commercial use, 
 please feel free to contact us.
